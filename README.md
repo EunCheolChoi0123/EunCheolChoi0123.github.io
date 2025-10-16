@@ -12,5 +12,5 @@
 **|** [X/Twitter](https://x.com/Eun_Cheol_Choi)
 **|** [Bluesky](https://bsky.app/profile/euncheolchoi.bsky.social)
 **|** [Google Scholar](https://scholar.google.com/citations?user=bQpF9q8AAAAJ&hl=en&oi=ao)
-**|** [ORCID](https://orcid.org/0000-0003-0861-1343)
+**|** [ORCID](https://orcid.org/0000-0003-0861-1343)  
 **|** [HUMANS LAB](http://www.emilio.ferrara.name/)
