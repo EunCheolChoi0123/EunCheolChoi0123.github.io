@@ -17,7 +17,7 @@
 - **A Real-Time Look at How AI Is Reshaping Work** (USC ISI, Jul 7, 2025) [Link](https://www.isi.edu/news/78976/a-real-time-look-at-how-ai-is-reshaping-work/)    
 
 # Curriculum Vitae
-**|** [Link](https://docs.google.com/document/d/1z0zALj-IU4v2fW0QycLZ9JZDCmYP-Y_J/view)
+**|** [Link](https://docs.google.com/document/d/1-Udm8SLVSo4mD_AXiXiCQ2Dvvs-EZwLA/edit?usp=sharing&ouid=101020218877352933901&rtpof=true&sd=true)
 
 # Contact & Information
 **|** [Email](mailto:euncheol@usc.edu)
