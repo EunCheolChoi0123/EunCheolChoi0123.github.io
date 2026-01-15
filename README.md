@@ -11,6 +11,11 @@
 - **Choi, E. C.**, & Ferrara, E. (2024, May). *Automated claim matching with large language models: Empowering fact-checkers in the fight against misinformation.* In *Companion Proceedings of the ACM on Web Conference 2024* (pp. 1441-1449).
 - **Choi, E. C.**, & Youn, S. (2022). *The media policy debate over punitive damages for media reports: A discourse network analysis.* *Korean Journal of Journalism & Communication Studies,* 66(2), 5–69.
 
+## Media coverage
+
+- **Researchers at Annenberg measure effects of AI innovation on labor market** (Daily Trojan, Sep 16, 2025) [link](https://dailytrojan.com/2025/09/16/researchers-at-annenberg-measure-effects-of-ai-innovation-on-labor-market/)    
+- **A Real-Time Look at How AI Is Reshaping Work** (USC ISI, Jul 7, 2025) [link](https://www.isi.edu/news/78976/a-real-time-look-at-how-ai-is-reshaping-work/)    
+
 # Curriculum Vitae
 **|** [Link](https://docs.google.com/document/d/1z0zALj-IU4v2fW0QycLZ9JZDCmYP-Y_J/view)
 
