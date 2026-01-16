@@ -1,5 +1,5 @@
 # Current Positions
-**| Doctoral Student** at USC Annenberg School for Communication and Journalism  
+**| Doctoral Candidate** at USC Annenberg School for Communication and Journalism  
 **| Master's Student** at USC Thomas Lord Department of Computer Science  
 **| Research Assistant** at USC Information Sciences Institute  
 
