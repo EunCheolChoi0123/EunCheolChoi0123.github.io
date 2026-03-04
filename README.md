@@ -10,6 +10,13 @@
 - **Choi, E. C.**, & Ferrara, E. (2024, May). *FACT-GPT: Fact-checking augmentation via claim matching with LLMs.* In *Companion Proceedings of the ACM on Web Conference 2024* (pp. 883-886). [Link](https://dl.acm.org/doi/abs/10.1145/3589335.3651504)
 - **Choi, E. C.**, & Ferrara, E. (2024, May). *Automated claim matching with large language models: Empowering fact-checkers in the fight against misinformation.* In *Companion Proceedings of the ACM on Web Conference 2024* (pp. 1441-1449). [Link](https://dl.acm.org/doi/abs/10.1145/3589335.3651910)
 - **Choi, E. C.**, & Youn, S. (2022). *The media policy debate over punitive damages for media reports: A discourse network analysis.* *Korean Journal of Journalism & Communication Studies,* 66(2), 5–69. [Link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002835352)
+
+## Preprints
+
+- **Choi, E. C.**, Young, L. E., & Ferrara, E. (2026). Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility. arXiv preprint arXiv:2602.04674. [Link](https://arxiv.org/pdf/2602.04674)
+- Chen, Z., **Choi, E. C.**, Luo, Y., Wang, X., Xiao, Y., Yang, A., & Luceri, L. (2026). Growth First, Care Second? Tracing the Landscape of LLM Value Preferences in Everyday Dilemmas. arXiv preprint arXiv:2602.04456.[Link](https://arxiv.org/pdf/2602.04456)
+- Ghafouri, B., **Choi, E. C.**, Dey, P., & Ferrara, E. (2026). Measuring Human Preferences in RLHF is a Social Science Problem. [Link](https://bijean.xyz/rlhf-socialscience.pdf)
+
 - For additional ongoing and unpublished projects, see my updated [Curriculum Vitae](https://docs.google.com/document/d/1-Udm8SLVSo4mD_AXiXiCQ2Dvvs-EZwLA/edit?usp=sharing&ouid=101020218877352933901&rtpof=true&sd=true).
 
 ## Media coverage
