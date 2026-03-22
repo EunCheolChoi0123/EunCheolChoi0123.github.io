@@ -5,7 +5,7 @@
 
 ## Publications
 
-- **Choi, E. C.**, Young, L. E., & Ferrara, E. (2026). Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility. **Accepted** in *Proceedings of the 19th International AAAI Conference on Web and Social Media.* [Preprint Link](https://arxiv.org/pdf/2602.04674)
+- **Choi, E. C.**, Young, L. E., & Ferrara, E. (2026). Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility. **Accepted** in *Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Preprint Link](https://arxiv.org/pdf/2602.04674)
 - **Choi, E. C.**, Cao, Q., Guan, Q., Peng, S., Chen, P.-Y., & Luceri, L. (2025, June). *Mapping Labor Market Vulnerability in the Age of AI: Evidence from Job Postings and Patent Data.* In *Workshop Proceedings of the 19th International AAAI Conference on Web and Social Media.* [Link](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_05)
 - **Choi, E. C.**, Balasubramanian, A., Qi, J., & Ferrara, E. (2025, April). *Limited effectiveness of LLM-generated data augmentation for COVID-19 misinformation stance detection.* In *Companion Proceedings of the ACM on Web Conference 2025.* [Link](https://dl.acm.org/doi/abs/10.1145/3701716.3715521)
 - **Choi, E. C.**, & Ferrara, E. (2024, May). *FACT-GPT: Fact-checking augmentation via claim matching with LLMs.* In *Companion Proceedings of the ACM on Web Conference 2024* (pp. 883-886). [Link](https://dl.acm.org/doi/abs/10.1145/3589335.3651504)
