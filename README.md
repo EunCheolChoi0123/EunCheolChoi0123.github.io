@@ -5,8 +5,9 @@
 
 ## Publications
 
-- Choi, E. C., Young, L. E., & Ferrara, E. (2026, May). Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility. Accepted in *Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Preprint Link](https://arxiv.org/pdf/2602.04674)
-- Cao, L., Zeng, W., Wu, X., Choi, E. C., & Ferrara, E. (2026, May). Mapping Election Toxicity on Social Media across Issue, Ideology, and Psychosocial Dimensions. Accepted in *Workshop Proceedings of the 20th International AAAI Conference on Web and Social Media.*
+- Choi, E. C., Young, L. E., & Ferrara, E. (2026, May). Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility. Accepted in *Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Preprint Link](https://arxiv.org/abs/2602.04674)
+- Ghafouri, B., Choi, E. C., Dey, P., & Ferrara, E. (2026). Measuring Human Preferences in RLHF is a Social Science Problem. Accepted in *Forty-Third International Conference on Machine Learning.* [Preprint Link](https://arxiv.org/abs/2604.03238)
+- Cao, L., Zeng, W., Wu, X., Choi, E. C., & Ferrara, E. (2026, May). Mapping Election Toxicity on Social Media across Issue, Ideology, and Psychosocial Dimensions. Accepted in *Workshop Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Preprint Link](https://arxiv.org/abs/2604.16765)
 - Zhou, S., Qiu, P., Blas Urrutia, L., Shen, D., Hsu, D., Choi, E., C., Adaduvora, N., & Ferrara, E. (2026, May). The trafficker’s pitch: Detecting deceptive recruitment in online job boards. Accepted in *Workshop Proceedings of the 20th International AAAI Conference on Web and Social Media.*
 - Choi, E. C., Cao, Q., Guan, Q., Peng, S., Chen, P.-Y., & Luceri, L. (2025, June). Mapping Labor Market Vulnerability in the Age of AI: Evidence from Job Postings and Patent Data. In *Workshop Proceedings of the 19th International AAAI Conference on Web and Social Media.* [Link](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_05)
 - Choi, E. C., Balasubramanian, A., Qi, J., & Ferrara, E. (2025, April). Limited effectiveness of LLM-generated data augmentation for COVID-19 misinformation stance detection. In *Companion Proceedings of the ACM on Web Conference 2025.* [Link](https://dl.acm.org/doi/abs/10.1145/3701716.3715521)
@@ -17,7 +18,6 @@
 ## Preprints
 
 - Chen, Z., Choi, E. C., Luo, Y., Wang, X., Xiao, Y., Yang, A., & Luceri, L. (2026). Growth First, Care Second? Tracing the Landscape of LLM Value Preferences in Everyday Dilemmas. arXiv preprint arXiv:2602.04456.[Link](https://arxiv.org/pdf/2602.04456)
-- Ghafouri, B., Choi, E. C., Dey, P., & Ferrara, E. (2026). Measuring Human Preferences in RLHF is a Social Science Problem. [Link](https://bijean.xyz/rlhf-socialscience.pdf)
 
 - For additional ongoing and unpublished projects, see my updated [Curriculum Vitae](https://docs.google.com/document/d/1-Udm8SLVSo4mD_AXiXiCQ2Dvvs-EZwLA/edit?usp=sharing&ouid=101020218877352933901&rtpof=true&sd=true).
 
