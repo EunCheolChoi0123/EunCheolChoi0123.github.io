@@ -5,8 +5,10 @@
 
 ## Publications
 
+- Choi, E. C., & Young, L. E. (2026). Who you know, what you believe, what you share: Personal networks and health misinformation susceptibility. *Social Networks, 87*, 163-172. [Link](https://www.sciencedirect.com/science/article/pii/S0378873326000572?dgcid=author)
 - Choi, E. C., Young, L. E., & Ferrara, E. (2026, May). Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility. *Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/42652/50212)
-- Ghafouri, B., Choi, E. C., Dey, P., & Ferrara, E. (2026, July). Measuring Human Preferences in RLHF is a Social Science Problem. Accepted in *Forty-Third International Conference on Machine Learning.* [Preprint Link](https://arxiv.org/abs/2604.03238)
+- Ghafouri, B., Choi, E. C., Dey, P., & Ferrara, E. (2026, July). Position: RLHF May Not Reflect Genuine Preferences. *Forty-Third International Conference on Machine Learning.* [Link](https://openreview.net/pdf?id=5l1pca4KhM)
+- Choi, E. C., & Ferrara, E. (2026, September). Angry but Accurate: Detecting and Profiling the Counter-Misinformation Ecosystem on Twitter. Accepted to *ACM Hypertext 2026*. Preprint Link
 - Cao, L., Zeng, W., Wu, X., Choi, E. C., & Ferrara, E. (2026, May). Mapping Election Toxicity on Social Media across Issue, Ideology, and Psychosocial Dimensions. *Workshop Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Link](https://workshop-proceedings.icwsm.org/pdf/2026_14.pdf)
 - Zhou, S., Qiu, P., Blas Urrutia, L., Shen, D., Hsu, D., Choi, E., C., Adaduvora, N., & Ferrara, E. (2026, May). The trafficker’s pitch: Detecting deceptive recruitment in online job boards. Accepted in *Workshop Proceedings of the 20th International AAAI Conference on Web and Social Media.* [Link](https://workshop-proceedings.icwsm.org/pdf/2026_04.pdf)
 - Choi, E. C., Cao, Q., Guan, Q., Peng, S., Chen, P.-Y., & Luceri, L. (2025, June). Mapping Labor Market Vulnerability in the Age of AI: Evidence from Job Postings and Patent Data. In *Workshop Proceedings of the 19th International AAAI Conference on Web and Social Media.* [Link](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_05)
@@ -16,10 +18,10 @@
 - Choi, E. C., & Youn, S. (2022). The media policy debate over punitive damages for media reports: A discourse network analysis. *Korean Journal of Journalism & Communication Studies,* 66(2), 5–69. [Link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002835352)
 
 ## Preprints
+- Choi, E. C., Kim, Y., Pugalenthi, P., Chen, H. E., & Huang, B. R. (2026). Beyond the Mean: Three-Axis Fidelity for Aligning LLM-Based Survey Simulators from Small Pilot Data. Pluralistic Alignment @ ICML 2026. [Link](https://openreview.net/pdf?id=4xZMb5uSxD)
+- Chen, Z., Choi, E. C., Luo, Y., Wang, X., Xiao, Y., Yang, A., & Luceri, L. (2026). Growth First, Care Second? Tracing the Landscape of LLM Value Preferences in Everyday Dilemmas. arXiv preprint arXiv:2602.04456. [Link](https://arxiv.org/pdf/2602.04456)
 
-- Chen, Z., Choi, E. C., Luo, Y., Wang, X., Xiao, Y., Yang, A., & Luceri, L. (2026). Growth First, Care Second? Tracing the Landscape of LLM Value Preferences in Everyday Dilemmas. arXiv preprint arXiv:2602.04456.[Link](https://arxiv.org/pdf/2602.04456)
-
-- For additional ongoing and unpublished projects, see my updated [Curriculum Vitae](https://docs.google.com/document/d/1-Udm8SLVSo4mD_AXiXiCQ2Dvvs-EZwLA/edit?usp=sharing&ouid=101020218877352933901&rtpof=true&sd=true).
+For additional ongoing and unpublished projects, see my updated [Curriculum Vitae](https://docs.google.com/document/d/1-Udm8SLVSo4mD_AXiXiCQ2Dvvs-EZwLA/edit?usp=sharing&ouid=101020218877352933901&rtpof=true&sd=true).
 
 ## Media coverage
 
