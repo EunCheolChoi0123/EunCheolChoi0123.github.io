@@ -17,7 +17,7 @@ For the full list of published and ongoing projects, see my updated [Curriculum 
 
 ## Media coverage
 
-- **USC Researchers Discover Fake News Spreaders Have Less Followers Than Users Pushing Back** (USC ISI, July 29, 2026) [Link]((https://www.isi.edu/news/86017/usc-researchers-discover-fake-news-spreaders-have-less-followers-than-users-pushing-back/)    
+- **USC Researchers Discover Fake News Spreaders Have Less Followers Than Users Pushing Back** (USC ISI, July 29, 2026) [Link](https://www.isi.edu/news/86017/usc-researchers-discover-fake-news-spreaders-have-less-followers-than-users-pushing-back/)    
 - **Researchers at Annenberg measure effects of AI innovation on labor market** (Daily Trojan, Sep 16, 2025) [Link](https://dailytrojan.com/2025/09/16/researchers-at-annenberg-measure-effects-of-ai-innovation-on-labor-market/)    
 - **A Real-Time Look at How AI Is Reshaping Work** (USC ISI, Jul 7, 2025) [Link](https://www.isi.edu/news/78976/a-real-time-look-at-how-ai-is-reshaping-work/)    
 
