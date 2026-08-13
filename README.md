@@ -1,8 +1,8 @@
 ## Education & Positions
 
-**| PhD Candidate** at USC Annenberg School for Communication and Journalism<br>
-**| MS in Computer Science** at USC Viterbi School of Engineering<br>
-**| Research Assistant** at USC Information Sciences Institute<br>
+- **PhD Candidate** at USC Annenberg School for Communication and Journalism
+- **MS in Computer Science**  at USC Viterbi School of Engineering
+- **Research Assistant** at USC Information Sciences Institute
 
 ## Selected Publications
 
